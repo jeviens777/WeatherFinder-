@@ -173,7 +173,7 @@ WeatherFinder
 ---
 
 ## 📸 Tampilan Aplikasi
-![Kosong](assets/kosong.jpeg)
+![Kosong](kosong.jpeg)
 
 
 
