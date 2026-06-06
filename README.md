@@ -1,11 +1,5 @@
 # 🌤️ WeatherFinder
 
-WeatherFinder adalah aplikasi React Native yang memungkinkan pengguna mencari informasi cuaca secara real-time berdasarkan nama kota menggunakan API gratis dari Open-Meteo.
-
-Aplikasi ini dibuat menggunakan React Native dan menerapkan konsep penting seperti useState, useEffect, debounce, fetch API, cleanup function, AbortController, dan conditional rendering.
-
----
-
 ## 📱 Fitur Aplikasi
 
 ### ✅ Level 1 (Fitur Wajib)
@@ -140,42 +134,12 @@ Pilih salah satu:
 
 Scan QR Code yang muncul setelah Expo berjalan.
 
----
-
-## 📂 Struktur Project
-
-```text
-WeatherFinder
-│
-├── assets/
-├── App.js
-├── package.json
-├── package-lock.json
-└── README.md
-```
-
----
-
-## 👨‍💻 Konsep React Native yang Digunakan
-
-- Functional Component
-- useState
-- useEffect
-- Controlled Component
-- Conditional Rendering
-- Fetch API
-- Async Request Handling
-- Debounce
-- Cleanup Function
-- AbortController
-- Dynamic Styling
-
----
 
 ## 📸 Tampilan Aplikasi
 ![Kosong](kosong.jpeg)
-
-
+![Loading](loading.jpeg)
+![Eror](eror.jpeg)
+![Sukses](sukses.jpeg)
 
 
 
